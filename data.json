@@ -131,7 +131,54 @@
           "name": "Ruler",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/aa/Ruler.png"
         },
-
+        {
+          "name": "Platinum Broadsword",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f9/Platinum_Broadsword.png"
+        },
+        {
+          "name": "Umbrella",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/0/06/Umbrella.png"
+        },
+        {
+          "name": "Breathing Reed",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/91/Breathing_Reed.png"
+        },
+        {
+          "name": "Gladius",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c5/Gladius.png"
+        },
+        {
+          "name": "Bone Sword",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/29/Bone_Sword.png"
+        },
+        {
+          "name": "Candy Cane Sword",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/14/Candy_Cane_Sword.png"
+        },
+        {
+          "name": "Katana",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e9/Katana.png"
+        },
+        {
+          "name": "Ice Blade",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/c/c3/Ice_Blade.png"
+        },
+        {
+          "name": "Light's Bane",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/1/13/Light%27s_Bane.png"
+        },
+        {
+          "name": "Exotic Scimitar",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/3/36/Exotic_Scimitar.png"
+        },
+        {
+          "name": "Blood Butcherer",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/6/62/Blood_Butcherer.png"
+        },
+        {
+          "name": "Starfury",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2d/Starfury.png"
+        },
         {
           "name": "Enchanted Sword",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b3/Enchanted_Sword_%28item%29.png"
@@ -503,6 +550,19 @@
         {
           "name": "Snapthorn",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a0/Snapthorn.png"
+        }
+      ]
+    },
+    {
+      "name": "New Stage",
+      "weapons": [
+        {
+          "name": "New Weapon 1",
+          "img": "URL_TO_WEAPON_IMAGE"
+        },
+        {
+          "name": "New Weapon 2",
+          "img": "URL_TO_WEAPON_IMAGE"
         }
       ]
     },
