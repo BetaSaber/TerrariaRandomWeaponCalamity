@@ -105,6 +105,7 @@
     },
     {
       "name": "Hardmode",
+      "clearPreviousWeapons": true,
       "weapons": [
         {
           "name": "Cobalt Sword",
@@ -239,15 +240,6 @@
       ]
     },
     {
-      "name": "Betsy",
-      "weapons": [
-        {
-          "name": "Betsy's Wrath",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/5/5f/Betsy%27s_Wrath.png"
-        }
-      ]
-    },
-    {
       "name": "Ravager",
       "weapons": [
         {
@@ -276,6 +268,7 @@
     },
     {
       "name": "Moon Lord",
+      "clearPreviousWeapons": true,
       "weapons": [
         {
           "name": "Lunar Flare",
@@ -388,6 +381,15 @@
         {
           "name": "Calamitas' Final Flame",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/2/26/Calamitas%27_Final_Flame.png"
+        }
+      ]
+    },
+    {
+      "name": "Boss Rush",
+      "weapons": [
+        {
+          "name": "Exo Blaster Rush",
+          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/9/9c/Exo_Blaster.png"
         }
       ]
     }
