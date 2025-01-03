@@ -59,20 +59,11 @@
       ]
     },
     {
-      "name": "The Hive Mind",
+      "name": "The Hive Mind/The Perforators",
       "weapons": [
         {
           "name": "Hive Pack",
           "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/f/f0/Hive_Pack.png"
-        }
-      ]
-    },
-    {
-      "name": "The Perforators",
-      "weapons": [
-        {
-          "name": "Perforator Hive",
-          "img": "https://static.wikia.nocookie.net/terraria_gamepedia/images/a/a9/Perforator_Hive.png"
         }
       ]
     },
@@ -239,7 +230,7 @@
       ]
     },
     {
-      "name": "Empress of Light",
+      "name": "Empress of Lighi",
       "weapons": [
         {
           "name": "Rainbow Crystal Staff",
