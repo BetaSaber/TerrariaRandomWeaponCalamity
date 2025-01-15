@@ -867,7 +867,7 @@
         },
         {
           "name": "Ichor Spear",
-          "img": "https://calamitymod.wiki.gg/images/4/42/Ichor_Spear.png."
+          "img": "https://calamitymod.wiki.gg/images/4/42/Ichor_Spear.png"
         },
         {
           "name": "Palladium Javelin",
@@ -2438,13 +2438,8 @@
         },
         {
           "name": "King of Constellations, Tenry\u016b",
-          "img": ""
-        }
-      ]
-    },
-    {
-      "name": "https://calamitymod.wiki.gg/images/a/a2/King_of_Constellations%2C_Tenry%C5%AB.png",
-      "weapons": [
+          "img": "https://calamitymod.wiki.gg/images/a/a2/King_of_Constellations%2C_Tenry%C5%AB.png"
+        },
         {
           "name": "Reality Rupture",
           "img": "https://calamitymod.wiki.gg/images/2/2b/Reality_Rupture.png"
